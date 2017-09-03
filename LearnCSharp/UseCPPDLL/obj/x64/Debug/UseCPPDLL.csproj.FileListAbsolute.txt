@@ -1,0 +1,5 @@
+E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\bin\x64\Debug\UseCPPDLL.exe.config
+E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\bin\x64\Debug\UseCPPDLL.exe
+E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\bin\x64\Debug\UseCPPDLL.pdb
+E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\obj\x64\Debug\UseCPPDLL.exe
+E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\obj\x64\Debug\UseCPPDLL.pdb
