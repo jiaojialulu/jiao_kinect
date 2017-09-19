@@ -1,5 +1,5 @@
-﻿生成启动时间为 2017/8/30 17:17:33。
-     1>项目“E:\jiao\projects\vs\cpp\jiao_kinect\windowsSDK\ShowPointCloudByParam\ShowPointCloudByParam.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2017/9/6 9:53:55。
+     1>项目“E:\jiao\projects\vs\cpp\jiao_kinect\windowsSDK\ShowPointCloudByParam\ShowPointCloudByParam.vcxproj”在节点 4 上(Rebuild 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\libraries\glfw-3.1.2.bin.WIN64\include" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt MyKinect.cpp "源.cpp"
          源.cpp
@@ -11,8 +11,8 @@
          ShowPointCloudByParam.vcxproj -> E:\jiao\projects\vs\cpp\jiao_kinect\windowsSDK\x64\Debug\ShowPointCloudByParam.exe
        Manifest:
          C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"E:\jiao\projects\vs\cpp\jiao_kinect\windowsSDK\x64\Debug\ShowPointCloudByParam.exe.manifest" /manifest x64\Debug\ShowPointCloudByParam.exe.intermediate.manifest
-     1>已完成生成项目“E:\jiao\projects\vs\cpp\jiao_kinect\windowsSDK\ShowPointCloudByParam\ShowPointCloudByParam.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“E:\jiao\projects\vs\cpp\jiao_kinect\windowsSDK\ShowPointCloudByParam\ShowPointCloudByParam.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.55
+已用时间 00:00:04.45
