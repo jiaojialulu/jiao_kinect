@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/9/19 17:54:46。
+     1>项目“E:\jiao\projects\vs\MyLibfreenect\MLibfreenectDll\MLibfreenectDll.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyLibfreenectDll.cpp
+         MyLibfreenectDll.cpp
+     1>MyLibfreenectDll.cpp(13): error C2491: “MyLibFreenect::InitDouble”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(37): error C2491: “MyLibFreenect::CloseDouble”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(52): error C2491: “MyLibFreenect::GetColorAndDepthData_1”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(69): error C2491: “MyLibFreenect::GetColorAndDepthData_2”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(91): error C2491: “MyLibFreenect::Init”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(103): error C2491: “MyLibFreenect::Close”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(109): error C2491: “MyLibFreenect::GetColorData”: 不允许 dllimport 函数 的定义
+     1>MyLibfreenectDll.cpp(124): error C2491: “MyLibFreenect::ShowImage”: 不允许 dllimport 函数 的定义
+     1>已完成生成项目“E:\jiao\projects\vs\MyLibfreenect\MLibfreenectDll\MLibfreenectDll.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.67

@@ -24,6 +24,15 @@ extern "C"
 {
 	namespace MyLibFreenect
 	{
+		/// kinect double
+		LIBFREENECT_API int InitDouble();
+		LIBFREENECT_API void CloseDouble();
+		LIBFREENECT_API unsigned char* GetColorAndDepthData_1();
+		LIBFREENECT_API unsigned char* GetColorAndDepthData_2();
+
+
+
+		/// kinect
 		// 初始化
 		LIBFREENECT_API void Init();
 		// 关闭设备

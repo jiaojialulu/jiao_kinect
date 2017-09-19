@@ -1,18 +1,19 @@
-﻿生成启动时间为 2017/9/19 14:54:52。
+﻿生成启动时间为 2017/9/19 20:17:41。
      1>项目“E:\jiao\projects\vs\MyLibfreenect\MLibfreenectDll\MLibfreenectDll.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (MLibfreenectDll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D LIBFREENECT_EXPORT /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt MyLibfreenectDll.cpp
          MyLibfreenectDll.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.dll" /INCREMENTAL:NO /NOLOGO opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib freenect2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\MLibfreenectDll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.lib" /MACHINE:X64 /DLL x64\Release\MyLibfreenectDll.obj
-            正在创建库 E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.lib 和对象 E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.exp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.dll" /INCREMENTAL:NO /NOLOGO opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib freenect2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\MyLibfreenectDll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.lib" /MACHINE:X64 /DLL x64\Release\MyLibfreenectDll.obj
+            正在创建库 E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.lib 和对象 E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.exp
          正在生成代码
          已完成代码的生成
-         MLibfreenectDll.vcxproj -> E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.dll
+         MLibfreenectDll.vcxproj -> E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.dll
        Manifest:
-         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MLibfreenectDll.dll.manifest" /manifest x64\Release\MLibfreenectDll.dll.intermediate.manifest
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\MyLibfreenectDll.dll.manifest" /manifest x64\Release\MyLibfreenectDll.dll.intermediate.manifest
      1>已完成生成项目“E:\jiao\projects\vs\MyLibfreenect\MLibfreenectDll\MLibfreenectDll.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.03
+已用时间 00:00:01.57

@@ -1,18 +1,20 @@
-﻿生成启动时间为 2017/9/19 11:35:30。
-     1>项目“E:\jiao\projects\vs\MyLibfreenect\TestDll\TestDll.vcxproj”在节点 2 上(Rebuild 个目标)。
+﻿生成启动时间为 2017/9/19 22:02:35。
+     1>项目“E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\TestDll\TestDll.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\TestDll.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
          stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\TestDll.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt TestDll.cpp
          TestDll.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\TestDll.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\TestDll.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jiao\projects\vs\MyLibfreenect\x64\Release\TestDll.lib" /MACHINE:X64 x64\Release\stdafx.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\x64\Release\TestDll.exe" /INCREMENTAL:NO /NOLOGO opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\TestDll.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\x64\Release\TestDll.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\x64\Release\TestDll.lib" /MACHINE:X64 x64\Release\stdafx.obj
          x64\Release\TestDll.obj
          正在生成代码
          已完成代码的生成
-         TestDll.vcxproj -> E:\jiao\projects\vs\MyLibfreenect\x64\Release\TestDll.exe
-     1>已完成生成项目“E:\jiao\projects\vs\MyLibfreenect\TestDll\TestDll.vcxproj”(Rebuild 个目标)的操作。
+         TestDll.vcxproj -> E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\x64\Release\TestDll.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\x64\Release\TestDll.exe.manifest" /manifest x64\Release\TestDll.exe.intermediate.manifest
+     1>已完成生成项目“E:\jiao\projects\vs\jiao_kinect\MyLibfreenect\TestDll\TestDll.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.46
+已用时间 00:00:02.34
