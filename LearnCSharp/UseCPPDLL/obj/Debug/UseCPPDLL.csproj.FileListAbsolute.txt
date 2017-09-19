@@ -1,6 +1,0 @@
-E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\bin\Debug\UseCPPDLL.exe.config
-E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\bin\Debug\UseCPPDLL.exe
-E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\bin\Debug\UseCPPDLL.pdb
-E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\obj\Debug\UseCPPDLL.csprojResolveAssemblyReference.cache
-E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\obj\Debug\UseCPPDLL.exe
-E:\jiao\projects\vs\c++\jiao_kinect\LearnCSharp\UseCPPDLL\obj\Debug\UseCPPDLL.pdb
